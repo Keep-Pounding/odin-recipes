@@ -19,7 +19,7 @@ html  {
 
 .page-title {
     text-align: center;
-    font-size: 80px;
+    font-size: 60px;
 }
 
 .recipe-list {
@@ -30,7 +30,7 @@ html  {
 ul,
 li {
     list-style-type: none;
-    margin: 100px 0;
+    margin: 50px 0;
     font-weight: bold;
 }
 
