@@ -1,0 +1,44 @@
+.page-title,
+.recipe-list {
+    font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-shadow: 5px 5px rgba(0, 0, 0, 0.521);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 0rem;
+
+}
+
+html  {
+    background:url(bg1.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.page-title {
+    text-align: center;
+    font-size: 80px;
+}
+
+.recipe-list {
+    text-align: center;
+    font-size: 40px;
+}
+
+ul,
+li {
+    list-style-type: none;
+    margin: 100px 0;
+    font-weight: bold;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:focus,
+a:active {
+    text-decoration: none;
+    color: white;
+}
